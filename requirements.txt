@@ -1,0 +1,19 @@
+pip install numpy==1.19.2 --user
+pip install pandas==0.25.3 --user
+pip install matplotlib==3.1.1 --user
+pip install scikit-learn==0.22.2.post1 --user
+pip install pyspark==2.4.5 --user
+pip install jupyter==1.0.0 --user
+pip install jupyter-client==6.1.3 --user
+pip install jupyter-console==6.4.0 --user
+pip install jupyter-core==4.6.3 --user
+pip install jupyterlab-widgets==1.0.0 --user
+pip install seaborn==0.10.1 --user
+pip install ipython==7.9.0 --user
+pip install ipython-genutils==0.2.0 --user
+pip install ipykernel==6.5.0 --user
+
+
+
+
+ 

@@ -1,0 +1,31 @@
+install python 3.7.2 and while installing in first screen click check box of add to path
+install all packages from requirements.txt file just by copying and pasting in command prompt and press enter key
+install java in C directory
+set java path and home in environmnet variables
+
+JAVA_HOME
+C:/Java
+
+java path in path variable as
+
+C:/Java/bin
+
+copy and paste hadoop folder in system C directory and set hadoop home and path in environment variables
+
+HADOOP_HOME
+
+C:/hadoop
+
+hadoop path as 
+
+C:/hadoop/bin
+
+copy and paste spark folder in C directory and then set in enivironmnet variable as 
+
+SPARK_HOME
+C:\spark\spark-2.4.5-bin-hadoop2.7
+
+spark path as 
+C:\spark\spark-2.4.5-bin-hadoop2.7\bin
+
+after that  double click on 'run.bat' file to start JUPYTER notebook
